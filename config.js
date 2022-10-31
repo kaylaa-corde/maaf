@@ -19,11 +19,11 @@ global.APIKeys = {
 }
 
 // Other
-global.owner = ['6281997496643']
-global.ownernomer = "6281997496643"
-global.premium = ['6281997496643']
-global.packname = 'Sticker By'
-global.author = 'AnggaBotz'
+global.owner = ['6285939048622']
+global.ownernomer = "6285939048622"
+global.premium = ['6285939048622']
+global.packname = 'Sticker By KayyBotz'
+global.author = 'KayyBotz'
 global.sessionName = 'angga'  //jangan diganti bro nanti error
 global.jumlha = '999'
 global.jumhal = '100000000000000'
@@ -65,8 +65,8 @@ global.myytv = 'https://youtu.be/FAsL-Jy4qLc'
 global.mygc = "https://chat.whatsapp.com/I1mlONQxvBlIk5lK7MnOfk"
 
 // Engak Ngaruh, Belum Kepasang
-global.botname = 'AnggaBotz'
-global.akulaku = 'Bot By Angga'
+global.botname = 'KayyBotz'
+global.akulaku = 'Bot By Kaylaa'
 global.ytname = 'YT AnggaXyzz' //Kalo Ngk Punya Yt Ngak Usah Di Ganti
 
 
